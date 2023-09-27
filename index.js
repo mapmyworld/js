@@ -1,0 +1,2 @@
+
+mmw._control.initControls();

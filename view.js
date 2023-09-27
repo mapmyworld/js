@@ -1,0 +1,2 @@
+
+mmw._view.loadSources();
